@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,head,body, .container-fluid{
+    height: 100%;
+    width: 100%;
+}
+/* .advice-card {
+    height: 100%;
+    display: block;
+    align-items: center;
+    justify-content: center;
+} */
